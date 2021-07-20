@@ -1,22 +1,22 @@
 # FutureMaker2021
-# Day 1: July 6, 2021
+### Day 1: July 6, 2021
 #    - In this program, I hope to become more familiar with deep learning and languages that I have not used much, such as C++
 #    - Although I have already done research in computer vision and deep learning, I hope the program can cover more in-depth conceptual informations.
 #    - NumPy is one of the most popular Python libraries. It stands for Numerical Python and provides support for manipulating large, multi-dimensional arrays and matrices. Several of our activities within this curriculum will explore various NumPy arrays and tools.
 
-# Day 2: July 7, 2021
+### Day 2: July 7, 2021
 #    - Dr. David Kong's talk was very inspiring, as he pushed everyone and helped me believe that everyone has a story -- I just have to learn to speak my unique experiences and passions in a strong, inspiring way
 #    - Making a common goal and developing a realistic plan to achieve that goal was also something that he covered. His talk touched me so much that I even contacted him through Instagram afterwards.
 
-# Day 3: July 8, 2021
+### Day 3: July 8, 2021
 #    - A supervised learning is where each data is labeled then processed to predict an outcome ("either regression or classification")
 #    - A unsupervised learning means that the model uses algorithms "to analyze unlabeled data sets and draw patterns between them without the need of human intervension." (i.e. clustering, dimensionality reduction)
 
-# Day 4: July 9, 2021
+### Day 4: July 9, 2021
 #    - Real world problem: classifying the exact location through a series of 360 degree images and videos; video classification; instant segmentation
 #    - Deep learning -- the network will be trained through series of hundreds of images and videos
 
-# Day 5-6 -- Weekend (catch-up days)
+### Day 5-6 -- Weekend (catch-up days)
 
 # Day 7: July 12, 2021
 #    - Not video -- writing in the ReadMe section:
@@ -28,7 +28,7 @@
 #    - Use what you learned in the article above (i.e. Neuron, Weights, Bias, Functions, Sigmoid, Softmax, Input vs Output, etc) to develop a NN model using this Kaggle Notebook. If you need some scaffolding code to get started, check out the “Code” tab on the shared link and select a recent Gold/Silver medal-ed notebook. Feel free to examine different notebooks to see different model topologies and select one that you find the most interesting or even explore combining them
 #    - ********** NEED TO FINISH *************
 
-# Day 9: July 14, 2021
+### Day 9: July 14, 2021
 #    - Review this Kaggle tutorial. Extend the training data using the full training data from this MNIST Database. Evaluate the model performance (hint: look at the confusion matrices) applied to the same test-set in comparison to the performance reported in the original Kaggle Tutorial Notebook.
 #    - ********** NEED TO FINISH *************
 
